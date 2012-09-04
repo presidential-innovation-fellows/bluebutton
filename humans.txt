@@ -1,0 +1,25 @@
+---
+layout: none
+---
+
+/* TEAM */
+
+	Ryan Panchadsaram
+	Twitter: @rypan
+	From: San Francisco, CA
+	
+	Henry Wei
+	Twitter: @henryweimd
+	From: New York, NY
+	
+	Matt McCall
+	Twitter: @mmccall625
+	From: Baltimore, MD
+	
+/* SITE */
+
+Last Update: {{ site.time }}
+Generator: Jekyll
+Hosting: GitHub Pages
+Standards: HTML5, CSS3
+Components: HTMl5 Boilerplate, jQuery, Mondernizr
