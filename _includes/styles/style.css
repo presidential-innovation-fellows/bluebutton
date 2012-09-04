@@ -147,7 +147,7 @@ table {
   border: 1px solid #ccc;
 }
 
-table caption {padding: .5em 0; font-size: 1.1em; color: #003a67;}
+table caption {padding: .5em 0; font-size: 1.1em; color: #0a87c9;}
 td, th {padding: .75em;}
 tr {border-bottom: 1px solid #ccc;}
 th {background: #194b80; color: #fff;}
@@ -177,13 +177,13 @@ textarea {overflow: auto;vertical-align: top;}
 
 html {
   -webkit-overflow-scrolling: touch;
-  -webkit-tap-highlight-color: #003a67;
+  -webkit-tap-highlight-color: #0a87c9;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
 
-::-webkit-selection {background: #003a67; color: #fff; text-shadow: none;}
-::-moz-selection {background: #003a67; color: #fff; text-shadow: none;}
+::-webkit-selection {background: #0a87c9; color: #fff; text-shadow: none;}
+::-moz-selection {background: #0a87c9; color: #fff; text-shadow: none;}
 ::selection {background: #194b80; color: #fff; text-shadow: none;}
 button,input[type="button"], input[type="reset"], input[type="submit"] {-webkit-appearance: button;}
 ::-webkit-input-placeholder {font-size: 14px;}
