@@ -150,7 +150,7 @@ table {
 table caption {padding: .5em 0; font-size: 1.1em; color: #0a87c9;}
 td, th {padding: .75em;}
 tr {border-bottom: 1px solid #ccc;}
-th {background: #194b80; color: #fff;}
+th {background: #0a87c9; color: #fff;}
 
 tfoot {font-style: italic;}
 caption {background-color: transparent;}
@@ -184,7 +184,7 @@ html {
 
 ::-webkit-selection {background: #0a87c9; color: #fff; text-shadow: none;}
 ::-moz-selection {background: #0a87c9; color: #fff; text-shadow: none;}
-::selection {background: #194b80; color: #fff; text-shadow: none;}
+::selection {background: #0a87c9; color: #fff; text-shadow: none;}
 button,input[type="button"], input[type="reset"], input[type="submit"] {-webkit-appearance: button;}
 ::-webkit-input-placeholder {font-size: 14px;}
 input:-moz-placeholder {font-size: 14px;}
