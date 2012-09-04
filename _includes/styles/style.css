@@ -397,7 +397,7 @@ MOBILE
 
 @media screen and (max-width: 800px) {
 
-  .sidebar {border-top: 2px solid #0A2240; padding-top: 1em;}
+  .sidebar {border-top: 2px solid #0a87c9; padding-top: 1em;}
 
   #content .alignleft {display: block; float: none; width: 50%; margin-bottom: 1em;
   }
@@ -463,7 +463,7 @@ MOBILE
 		width: 96.5%;
 		z-index: 10000;
 		display: block;
-		background: #0A2240;;
+		background: #0a87c9;;
 		padding: 1em 2%;
 		display: none; /* visibility will be toggled with jquery */
 	}
@@ -480,7 +480,7 @@ MOBILE
 		text-align: left;
 		padding: .5em 0;
 		overflow-x: hidden;
-		background: #0A2240;
+		background: #0a87c9;
 		border-bottom: 1px solid rgba(255,255,255,.1);
 	}
 		
@@ -493,7 +493,7 @@ MOBILE
 		display: inline;
 		padding: 0 0;
 		color: #fff;
-		 background: #0A2240;
+		 background: #0a87c9;
 		width: 100%;
 		display: block;
 		border: none;
@@ -827,12 +827,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .one-col .last-col {margin-right: 0;}
 .clear {clear: both;}
 .last-col {margin-right: 0;}
-nav.sticky{ position: fixed; top: 0; margin-top: 0 !important; background: #0A2240; left: 3.5%; width: 12%; margin-left: .15%; }
+nav.sticky{ position: fixed; top: 0; margin-top: 0 !important; background: #0a87c9; left: 3.5%; width: 12%; margin-left: .15%; }
  
 /* nav.sticky ul.page-list li a {padding: 0; margin: 0;}
 
 nav.sticky #nav, nav.sticky #nav li {padding: 0 6% 0 2%; width: 88%; display: block;}
-nav.sticky #nav ul a {background: #0A2240;}
+nav.sticky #nav ul a {background: #0a87c9;}
 nav.sticky #nav li span {padding-right: 10px;} */
     
 
