@@ -204,12 +204,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {padding: 0;border: 0;}
 
 html {
   height: 100%;
-  background: #0C223F; 
+  background: #0a87c9; 
 }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: #0C223F;
+  background: #0a87c9;
   margin: 0;
   padding: 0;
   text-align: center;
