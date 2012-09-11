@@ -4,7 +4,7 @@ title: The Team
 description: We’re the three Presidential Innovation Fellows working on Blue Button.
 ---
 
-*We're the three [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows) working on Blue Button. We’re citizens just like you who want to reimagine a better way for government and the people to interact. Nice to meet you. Now let’s do this.*
+*We're the three [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows) working on Blue Button. We believe in the power of health data. We know you do too.*
 
 ### Henry Wei, MD
 *Presidential Innovation Fellow*{.title}
@@ -21,4 +21,5 @@ Ryan Panchadsaram was most recently the head of Customer & Product at Ginger.io,
 ### Matthew McCall
 *Presidential Innovation Fellow*{.title}
 
+![Matthew McCall](https://si0.twimg.com/profile_images/1289565306/100_0084_reasonably_small.jpg){.alignleft}
 Matt McCall believes that open standards, data, and software have the potential to redefine the way in which patient-centered healthcare is delivered in this country, and that Blue Button is a critical step towards realizing the potential of this transformative concept.  Matt has most recently been involved in community engagement and development support for the Open Source Electronic Health Record Agent (OSEHRA), established by the Department of Veterans Affairs (VA) to catalyze innovation on the VistA Electronic Health Record and related health information technology projects. Matthew previously worked on several efforts for KRM Associates Inc.  Prior to KRM, Matt’s focus was in big data management and analytics support for the database marketing industry.  He graduated from Salisbury University with a degree in Management Information Systems.  Matt lives in Baltimore, MD, where he plays ice hockey and is active in the arts and theater community.
