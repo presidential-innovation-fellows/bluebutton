@@ -1,13 +1,15 @@
 ---
 title: The Project
-description: Project MyGov is one of five initiatives that are part of the White House Presidential Innovation Fellows program
+description: Blue Button is one of five initiatives that are part of the White House Presidential Innovation Fellows program
 layout: page
 ---
 
-Project MyGov is one of five initiatives that are part of the White House Presidential Innovation Fellows program. This new program is bringing in top innovators from outside government to work with top innovators inside government to create real and substantial changes that will in a very short time frame benefit the American people, save taxpayers money, and help create new jobs.
+Blue Button is one of five initiatives that are part of the White House Presidential Innovation Fellows program. This new program is bringing in top innovators from outside government to work with top innovators inside government to create real and substantial changes that will in a very short time frame benefit the American people, save taxpayers money, and help create new jobs.
 
-The purpose of Project MyGov is to reimagine how citizens interact with government through an experience designed around their needs rather than a confusing and fragmented bureaucracy. 
+Blue Button for America will spread the ability for millions of Americans to easily and securely download their own health information electronically, all while fueling the emergence of time and money-saving products and businesses.
 
-At its core, MyGov is aimed at better serving the common needs of all Americans, but we are also creating a platform that makes it easy for our our partners in agencies across government to do that in their own way. On the citizen side there’s a lot of redundancy and duplication of effort when filling out forms or looking for answers to common questions. There’s also a lot of duplication of effort by agencies around these services, and a high barrier to entry to implement user management and persistency for personalized services. 
+This project will expand nationwide adoption of Blue Button, a capability pioneered and deployed by the Department of Veterans Affairs that enables patients to securely download electronic copies of their own health information. Blue Button is currently available to veterans, uniformed service members, Medicare beneficiaries, and others. More than a million people have downloaded their own health information to date. 
 
-In order to address these issues, MyGov aims to establish a platform that provides trusted authentication and personalized services as well as a more simplified and unified experience for interactions with government in general. It will also include a toolkit for agencies to leverage the power of the platform, utilizing this new MyGov login service’s personalization and unified experience. 
+The Blue Button for America project will seek to expand implementation of Blue Button across the country on a voluntary basis (a growing number of private sector organizations have already adopted the technology), enabling millions more Americans to securely download electronic copies of their own health information. 
+
+The project will also stimulate the development of new apps and services (e.g., personal health management applications) by entrepreneurs that can help veterans and other consumers effectively use their own Blue Button data – and create new businesses and jobs in the process.    
