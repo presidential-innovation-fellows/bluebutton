@@ -4,7 +4,7 @@ title: The Team
 description: We’re the three Presidential Innovation Fellows working on Blue Button.
 ---
 
-*We're the three [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows) working on Blue Button. We believe in the power of health data. We know you do too.*
+*We're the three [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows) working on Blue Button. We are supported by amazing people at the VA and HHS. We believe in the power of health data. We know you do too.*
 
 ### Henry Wei, MD
 *Presidential Innovation Fellow*{.title}
