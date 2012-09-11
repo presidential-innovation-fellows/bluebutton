@@ -1,5 +1,5 @@
 ---
-title: Welcome to HHS & VA: White House Presidential Innovation Fellows
+title: Welcome to HHS and VA - White House Presidential Innovation Fellows
 description: 
 layout: post
 author: Blue Button
