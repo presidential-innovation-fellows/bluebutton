@@ -7,7 +7,8 @@ comments: true
 sharing: true
 category: Perspectives
 tags: 
-  - story
+  - parent
+  - caregiver
 published: true
 ---
 
