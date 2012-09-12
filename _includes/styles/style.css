@@ -294,6 +294,10 @@ div.arrow {
 
 .addthis_toolbox { margin-bottom: 15px; }
 
+.post{
+  margin-bottom: 20px;
+}
+
 .post-meta, .post-taxonomies {
   font-size: .8em; 
   color: #555;
