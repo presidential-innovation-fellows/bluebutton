@@ -13,7 +13,7 @@ url: http://presidential-innovation-fellows.github.com/bluebutton
 exclude: [ 'readme.md', 'php' ]
 
 #posts per page
-paginate: 5
+paginate: 15
 
 #number of items in RSS feed
 rss_limit: 10
