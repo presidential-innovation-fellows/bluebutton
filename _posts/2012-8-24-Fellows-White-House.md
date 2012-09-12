@@ -2,7 +2,7 @@
 title: West Wing
 description: 
 layout: post
-author: Blue Button
+author: Ryan Panchadsaram
 comments: true
 sharing: true
 category: Moments
