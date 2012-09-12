@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-![Innovation Lab](/images/blog/innolab.jpg)
+![Innovation Lab](/bluebutton/images/blog/innolab.jpg)
 
 The 18 PIFs are spread across 9 agencies within the Federal Governent. The Innovation Lab at OPM is our weekly gathering spot. The lab is a shared working space where the initiatives can hold meetings, conduct workshops, and collaborate on solutions.
 
