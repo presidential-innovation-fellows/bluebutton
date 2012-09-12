@@ -11,4 +11,4 @@ tags:
 published: true
 ---
 
-![Roosevelt Room](/bluebutton/images/blog/westwing.jpg)
+![Roosevelt Room](/bluebutton/images/blog/westwing.jpg){.aligncenter}
